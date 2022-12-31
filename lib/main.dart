@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
           boardColor: BoardColor.green,
           boardOrientation: PlayerColor.white,
           onMove: (){},
-          arrows: [BoardArrow(from: 'b2', to: 'b3', color: Colors.red.withOpacity(0.8))],
+          // arrows: [BoardArrow(from: 'b2', to: 'b3', color: Colors.red.withOpacity(0.8))],
         ),
       ),
     );
